@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class YoshiConfig(AppConfig):
+class OrmappConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'yoshi'
+    name = 'ormapp'
